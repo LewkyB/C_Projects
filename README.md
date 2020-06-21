@@ -15,8 +15,8 @@ CLI program that uses the fork() and execvp() to imitate Bash. Input is tokenize
 - [x] history command
 - [x] list PIDs created by shell session
 - [x] signal handling for Ctrl-c and Ctrl-z
-- [] tab completion
-- [] piping
+- [ ] tab completion
+- [ ] piping
 
 ## Edit distance
 
